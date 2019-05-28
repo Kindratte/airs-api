@@ -16,7 +16,7 @@ GET https://api.air.untill.com/air-bo-view/category?location=1
 **With multy-location:**
 
 ```http
-GET https://api.air.untill.com/air-bo-view/category?location[]=1&location[]=44&location[]=654
+GET https://api.air.untill.com/air-bo-view/category?location=1&location=44&location=654
 ```
 
 **Specified page and pagesize**
